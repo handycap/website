@@ -2,14 +2,14 @@
 #
 
 # Site settings
-title: Handycap!
+title: Handycap?
 description: |
-  Wir stellen ihr Handy wieder auf die Beine.
+  Wir stellen ihr Handy wieder auf die Beine ;-)
 owner: Daniel Baumann # or company name
 first_published: 2019 # if migrating another site, the year of your first publish
 email: mail@no-handycap.ch
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://handycap.github.io/website" # the base hostname & protocol for your site
+baseurl: "/website" # the subpath of your site, e.g. /blog
+url: "https://handycap.github.io/" # the base hostname & protocol for your site
 social:
   #twitter: https://twitter.com/<username>
   #github: https://github.com/<username>
